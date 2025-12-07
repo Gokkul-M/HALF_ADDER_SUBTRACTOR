@@ -1,7 +1,3 @@
-## NAME: VISHAL S
-
-## RegisterNumber: 212223240184
-
 # HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
